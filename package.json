@@ -1,0 +1,19 @@
+{
+  "name": "spell-file",
+  "version": "1.0.0",
+  "description": "Spells for interacting with files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cogwizzle/spell-file.git"
+  },
+  "author": "cogwizzle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cogwizzle/spell-file/issues"
+  },
+  "homepage": "https://github.com/cogwizzle/spell-file#readme"
+}
